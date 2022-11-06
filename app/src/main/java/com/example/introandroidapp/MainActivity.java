@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
                 lblOutput.setText("You chose Kelvin");
                 break;
         }
+
     }
 }
